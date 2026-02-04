@@ -1,0 +1,10 @@
+name = "TopologyProject"
+version = "0.1.0"
+defaultTargets = ["topologyproject"]
+
+[[lean_lib]]
+name = "TopologyProject"
+
+[[lean_exe]]
+name = "topologyproject"
+root = "Main"
